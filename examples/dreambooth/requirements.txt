@@ -7,6 +7,6 @@ tensorboard
 Jinja2
 pillow==9.2.0
 
-bitsandbytes
 torch
+bitsandbytes
 xformers
