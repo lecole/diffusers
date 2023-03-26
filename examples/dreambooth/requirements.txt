@@ -5,4 +5,4 @@ transformers>=4.25.1
 ftfy
 tensorboard
 Jinja2
-# pillow==9.2.0
+pillow==9.2.0
